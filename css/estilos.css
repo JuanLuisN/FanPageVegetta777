@@ -1,0 +1,59 @@
+.encabezado{
+    background:#5B2C6F;
+    color:white
+}
+
+.encabezado a{
+    color: white;
+}
+
+#footer{
+    background: #5B2C6F;
+    color: white;
+}
+
+#footer a, #footerDivider a{
+    color: white;
+    text-decoration: none;
+}
+
+#footerDivider{
+    background: #8E44AD ;
+    color: white;
+}
+
+#carouselExampleIndicators{
+    position: relative;
+
+}
+
+#carouselExampleIndicators .overlay{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#carouselExampleIndicators .overlay .container,
+#carouselExampleIndicators .overlay .row{
+    height: 100%;
+}
+
+.carusel{
+    background: black;
+    color: white;
+    padding:10px;
+}
+
+.fondo-morado{
+    background:#5B2C6F;
+}
+
+#video{
+    height: 50%;
+    width: 50%;
+    float: center
+}
